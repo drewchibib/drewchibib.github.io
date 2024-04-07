@@ -1,4 +1,4 @@
-# on blogging, a metapost
+
 First, I'd like to admit that I'm roughly a quarter of a century late to the whole blogging thing, give or take five years. Granted, my exposure to anything remotely adjacent to the world of self-hosted websites (which this, of course, is not), blogging, web-programming, computing, computer science, or anything of that ilk is limited to, like, the last six to eight months. That lack of exposure is, of course, my own fault.
 
 Anyway. This post is meant to be a post about posting. hence the name. There's a few questions that I'd like to address, mostly for my own edification more than anything else. Namely; 
