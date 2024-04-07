@@ -1,28 +1,22 @@
-***Paying* Attention**
+---
+layout: post 
+title: How should a marxist think about adhd? 
+---
+**Note:** *The following is mostly from a paper I wrote a couple of years ago, which I somewhat polemically titled "**Paying** Attention: Neoliberal capitalism and the adhd epidemic". There's certainly something worth saying buried within the academic jargon here, though I'd caution against taking any of the below claims too seriously. Research was done on and off over the period of aboout 2 or three years. I may come back to this and change some things; until then, take most of what's written here with a grain of salt. Or don't, I suppose, if you like it.*
 
-Neoliberal Capitalism and the ADHD 'Epidemic'
-
-Drew Chibib
-
-Adc3738
-
-PHL 342M: Marx and Marxist Theory
-
-Dec 2, 2022
-
-1.  **Introduction**
+## Introduction 
 
 The rapid increase in rates of mental disorders over the past few decades can be explained by a corresponding shift in the economic base. Some Marxist historians (Cohen 2016, Fisher 2009) have argued that these increases should be attributed to the dismantling of the welfare state and rapid globalization of the latter-half of the 20^th^ century.[^1] The above claims proceed from a methodology, following Lewontin and Levins (1996, 2000), that analyzes the sciences as part of the institutional and ideological superstructure of capitalism. In what follows, I show 1) that the shift in science's location of mental illness (i.e., from the immaterial 'psyche' to observable realm of neurobiology) is a symptom of a material shift towards neoliberal capitalism in the post-Fordist era; and 2) that the concomitant institutional and ideological changes of this shift are, at least, partly to blame for an empirical rise in ADHD diagnoses over that period.[^2]
 
 I would do well to note that, to some extent, this argument is of the form laid out by Levins (2000), with the caveat, of course, that we are not here talking of infectious disease, but a disease of a much more ontologically messy sort (i.e., mental illness). Proceeding from the notion that "with any major change in the way of life of a population ... there will also be a change in our relationship with pathogens, their reservoirs, and with the vectors of disease," we begin with an outline of what exactly, in this context, the contours of the "major change in the way of life" might be (Levins 2000: 4). From there, I draw from anthropological accounts of psychiatry in practice (Metzel 2009, Lakoff 2009) to provide an empirical account of the shift in location of mental illness. Then, acknowledging the relationship between the superstructure and means of diagnosis, I summarize the economic and clinical history of ADHD, before connecting the most modern of its symptoms to broader symptoms of "late capitalism".[^3] This latter claim is more or less an expansion of Levins' (2000) hypothesis qua the creation of a "sick society" (Levins 2000: 10).
 
-**2. Shifts in the economic base from 1970-2000**
+## Shifts in the economic base from 1970-2000
 
 To the matter of context, then. It's generally the consensus, among historians who use the terms (i.e., Fordism and Post-Fordism), that the shift towards neoliberalism happened sometime between the 1970s and the 1990s. To avoid going into the weeds on the matter, there was a broad shift in US (and global) monetary policy during this period, which allowed a rapid shift in business ontology, organization of means of production, and global trade.[^4] Privatization and deregulation feature prominently in this evolution. As events of note, you have: the establishment of NAFTA, the opening of the Chinese economy, and the implementation of structural adjustment in the third world by the IMF and World Bank.
 
 Qualitatively speaking, Fordism was characterized---for laborers---by loud and demanding working conditions that eliminated the possibility of communication. Manufacturing jobs moved overseas, state services were privatized, austerity measures enforced, capital became even more inescapably globalized. All of this, of course, was scaffolded by the growing ideological consensus (advertised, in no small part, by think tanks like the CATO institute, etc.) that "human well-being can best be advanced by liberating individual entrepreneurial freedoms and skills within an institutional framework characterized by strong private property rights, free markets, and free trade" (Cohen 2016: 82).[^5] This ideological consensus had, by the time Reagan left office, become hegemonic. Business jargon moved into the realm of everyday language, education, and self-help---students are now taught "efficiency" or "time-management," self-help books are written to boost "productivity," we seek to espouse an "entrepreneurial mindset," etc.)---even economic and health-outcome inequality was presented as a consequence of individual choice (Levins 2000: 20). This ideological shift---particularly, the growing emphasis on the individual, the self, and personal responsibility---is where I proceed in my analysis of psychiatric practice. The topic is much too broad to cover in full here, but the foundation of what follows could be well described as Foucauldian (Cohen 2016), and so I am careful to resituate my analysis within the scaffolding of class and the capitalist mode of production.
 
-**3. Psychiatry in Practice: Ethnographic accounts of shifting diagnostic criteria**
+## Psychiatry in Practice: Ethnographic accounts of shifting diagnostic criteria
 
 The neoliberal emphasis on the individual, self-governance, and moral personal responsibility, to reiterate, can be clearly traced to the concomitant shifts in productive relations over that period. I look now to bring those emphases to bear on the psychiatric sciences (in what follows, the "psy-sciences"). Following Nikolas Rose (1999), I should note that the psy-sciences have situated themselves, in a way, as a new science of the soul, which is particularly amenable to the ideological context of neoliberalism:
 
@@ -34,7 +28,7 @@ To be sure, and this has presented a consistent problem for the psy-sciences, wh
 
 But the purported effects of medication, the individual responses to it, and the means for determining the population of patients who should be administered the medication in the first place are subject to interpretation. Borrowing from Levins (2000:19-20), who suggests that it would be perfectly "good" science to suggest---and subsequently prove---that crime is genetic and hereditary, I suggest that the biomedical explanation of mental illness, which can only be adjusted/proved in relation to the method of its treatment, is incomplete. Understanding---and thus, treating---mental illness as a problem of biomechanics is too narrow an approach.[^8] I earnestly note that this paper in no way means to devalue, interrupt, or in any way demean the experiences of those with mental illnesses. In some ways, those experiences are social and political---that is where this analysis interjects. In many other important (and often more powerful) ways, those experiences are their (i.e., those with mental illness) own. That is where this analysis ends.
 
-**4. ADHD and superstructure**
+## ADHD and superstructure 
 
 In the summer of 1994, Roger Griggs---a former high school football coach and owner of the pharmaceutical company Rexal---rebranded the obscure weight-loss drug Obetrol. He called it "Adderal," which was shorthand for "ADD for All". Here Alan Schwartz (2013) provides a relatively disheartening account:
 
@@ -54,7 +48,7 @@ The rapid development of a diverse market of new prescription drugs saw an equal
 
 The relationship between marketing strategies, government policy, and demand for a commodity whose sale requires a psychiatric diagnosis is useful for two reasons. (1) it provides a glimpse into how pharmaceutical companies actively worked to project a tailored, if not distorted, image of ADHD drugs and their effectiveness, and (2) the success of these advertisements, which meant the sale of the commodities, which in turn meant the diagnosis of the patient, emphasizes the constraints by which the economic base shapes psychiatric knowledge. And this 'shaping' owes its success, in no small part, to the broader economic and political shifts of the late 20^th^ century outlined above.
 
-**5. Conclusion: hyperstimulation, "late capitalism," and sickness**
+## hyperstimulation, "late capitalism," and sickness 
 
 I have made clear the problems of psychiatry, at least from a sociological perspective.[^13] That said, I am careful not to claim too much in what follows, rather, only to hazard an explanation. Furthermore---to reiterate---in illustrating the material and ideological scaffolding of modern psychiatry I don't mean to suggest that mental illness is "made up," in any sense. There is a certain fluidity of diagnosis in the psy-sciences which makes it (i.e., psychiatry) particularly amenable to the neoliberal ethos, to be sure, and there are material incentives *against* finding cures for mental illness in the pharmaceutical industry. But they (i.e., the psy-sciences) point to something, some sorts of "problems in living" which shouldn't be ignored.[^14] Not only have the number of diagnoses---and the means of diagnosing them (see above)---increased, but there is at least an empirical proliferation of unease, self-reported and otherwise, that has increased somewhere between six- and 35-fold since 1955 (Cohen 2016: 17). [^15]
 
@@ -65,6 +59,9 @@ In this context, the individual is marketed to when they seek pleasure (e.g., sc
 The anxieties about success, achievement, and one's inability to focus given such constant stimulation provides a potential cause for the rise in U.S. ADHD diagnoses. To be sure, stimulant medications have a remarkable potential for increasing one's capacity to focus and work efficiently. But one must wonder whether this is an entirely good thing. Given the frequency with which children as young as two or three are prescribed them (I myself was on either Concerta, Adderall, or Vyvanse from age 5 to age 18), and the resulting side effects (which include insomnia, mental fatigue, decreased appetite, and even hallucinations), the distribution of these medications is something which we must certainly at least bring into question.
 
 And to make matters worse, it has become almost a *faux pas* to discuss the social determinants of the disorder; that is, potential underlying causes of the disorder aren't addressed at a meaningful level. To recall, not only is the biomedical approach ineffective (Cohen 2016), but exacerbates existing inequity, racial and otherwise (Metzel 2009, WHO 2013). In summary, to consider ADHD as a strictly individualized neurobiological problem does two things. 1) It reinforces the neoliberal emphasis on individuality and self-responsibility through a dialectical, mutually constitutive relationship between psychiatry and the economic base. 2)It provides an incredibly lucrative market---there is money in the research, sale, and production of the medications that 'treat' the disorder---and the market will ensure only the continued sale, prescription, and diagnosis of ADHD and ADHD medication. There is no other viable approach than an integrative one, and with this there are both academic and policy-related concerns. We who have a voice in these sorts of matters---in and out of academia---would do well to heed them.
+
+---
+
 
 **References**
 
