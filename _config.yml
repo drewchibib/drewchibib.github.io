@@ -1,8 +1,6 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Drew Chibib 
+description: mostly for publishing things i've written. does also contain books and essays i find compelling, people whose work i follow, and questions i find either important, entertaining, or both.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://drewchibib.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
