@@ -10,7 +10,7 @@ At present, this page is mostly just a list of links to some advice on the inter
 >Despite the near universality of the maxim that one should treat others as one ought to be treated, even well-intended advisers often advise others to act differently than they choose for themselves. We review several psychological factors that contribute to biased advice. Absent pecuniary motives to the contrary, advice tends to be paternalistically biased in favor of caution. Policies that would intuitively promote quality advice — such as making advisers accountable, taking advice from advisers who value the relationship, or having advisers disclose potential conflicts of interest — can perversely lower the quality of advice
 
 ## lessons 
-repository of lessons learned from my experience at various companies over the course of my career. The inspiration from this note came from a conversation with my father on Sunday, March 24 (2024) after a brief conversation that went something like the following: 
+repository of lessons learned from my experience at various companies over the course of my career (which, at present, spans about eight months [citation needed]). Hopefully long and rewarding. The inspiration from this note came from a conversation with my father on Sunday, March 24 (2024) after a brief conversation that went something like the following: 
 
 > Me:  I don't like working for other people
 > 
@@ -47,9 +47,9 @@ repository of lessons learned from my experience at various companies over the c
 4. (corollary): cultivate a culture of writing, sharing, and collaborating. **Ban powerpoints.** Power points for internal discussions are counter productive. Let the truth win out. 
 5. Accounts should be able to belong to multiple parent groups. A given entity should be able to have different levels of authorization on different groups of accounts. 
 6. When completely changing your service architecture and data schema, it's probably worth it to think about how to make that transition invisible to your clients. 
-7. Product-led growth doesn't work until a product exists and has users. Product and sales need to be tied at the hip. 
+7. Product-led growth doesn't work until a product exists and has users. Until then, product and sales need to be tied at the hip. It's also worth noting that 
 8. use *agile* **principles** where they apply. *Agile* **processes** are a waste of time and money. 
 9. Protect the developers time at all costs. 
 10. Have a general distrust of meetings. The burden of proof should be on the meeting creator to determine whether the meeting is required. 
-11. Don't hire as a short term solution. If hiring at an organization with many teams, it may be beneficial to delay the time for a new hire to join a team so as to incorporate them into the organization first before the team. This also mitigates accidentally hiring someone to fix a short term problem that may have underlying systemic problems. 
-12. Make all emails visible to all employees at all times. Open repository of information and communication. This sates curiosity and saves time that may be otherwise spent on "touching base". Also, selects against people who may be prone to horde information. 
+11. Don't hire as a short term solution. If hiring at an organization with many teams, it may be beneficial to delay the time for a new hire to join a team so as to incorporate them into the organization first before the team. This also mitigates accidentally hiring someone to fix a short term problem that may have underlying systemic causes. 
+12. Make all communications visible to all employees at all times. Open repository of information and communication. This sates curiosity and saves time that may be otherwise spent on "touching base". Also, selects against people who may be prone to horde information. It turns out that people act differently when others are watching, and the gradient of that difference usually tends towards kindness (feigned or not - kindness is kindness). Privcacy is good, usually, but there is usually no reason to enforce any sort of factional information siloes where those sorts of things aren't regulatory requirements. 
