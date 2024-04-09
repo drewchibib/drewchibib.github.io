@@ -15,4 +15,11 @@ Granted, smoking meat may be a little easier when you have access to a very larg
 
 Anyway. this blog post was partially composed during the cooking of said brisket (about 10 pounds, untrimmed, purchased at Sam's Club). So it could turn out that, in fact, about $100 and 12 hours of work were for naught and brisket-making is, in fact, quite difficult. Jury's still out there. 
 
+---
+
+## Tuesday, April 9: 2 days and a _lot_ of brisket later 
+
+Cooking brisket is indeed not that difficult. There may be some sort of general principle at work here; In fact, as I've found with cooking (on numerous occasions), running, and plenty of other hobby-amenable tasks, the [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle) more or less applies. In general, break down a task to its most essential elements, do those well, and you're well on your way to perfecting it. I put salt, pepper, and a small amount of brown sugar[^2] on the brisket, let it sit uncovered in the fridge for about 12 hours (could have been more), and proceded to smoke it, untrimmed, for about 8 hours (until it felt soft and tender and had reached the temperature at which most collagen is supposed to have melted down). That was it, apart from an hour or so of resting. It was perfect. 
+
 [^1]: I'd like to write (I guess another?) blog post on blogging -- there's probably something to be said about how the transition of the _type of internet_ (and the ways of interacting with one another therein) from blogs and forums to platforms is reflective of (or maybe even played a part in shaping) the way that we position ourselves (in the social, or even, I guess, ontological sense) in relation to the world and one another. 
+[^2]: a little bit of brown sugar on a piece of meat during its dry brine will go a long way. I'm not sure why, exactly, though it may have something to do with a general balance of flavors or the inimitably delicious marriage of sweet and savory, but it just works. Sprinkle some sugar on the next steak you make, maybe 20 minutes before grilling it. It helps with the sear and adds just a touch of depth to the flavor. Highly reccomend. 
