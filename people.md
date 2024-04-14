@@ -12,3 +12,4 @@ See below for a list of people whose work I currently am or at some point have b
 - [Bruno Latour](http://www.bruno-latour.fr/index-2.html)
 - [Phil Schatz](https://philschatz.com)
 - [William Cronon](http://www.williamcronon.net) 
+- [Nadia Asparouhova](https://nadia.xyz) 
