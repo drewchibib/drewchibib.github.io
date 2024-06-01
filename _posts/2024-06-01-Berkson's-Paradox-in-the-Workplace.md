@@ -2,6 +2,7 @@
 layout: post
 title: Berkson's Paradox in the Workplace
 ---
+Had the idea for the following after a conversation with my friend Jack over lunch. 
 
 [Berkson's Paradox ](https://en.wikipedia.org/wiki/Berkson%27s_paradox) is a statistical phenomenon that arises due to a sampling bias in a statistical study design. Here's a great example:  
 
