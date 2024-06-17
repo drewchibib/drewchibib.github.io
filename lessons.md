@@ -3,21 +3,7 @@ layout: default
 title: lessons
 permalink: /lessons/
 ---
-This page is meant to serve as a repository of lessons learned from my experience at various companies over the course of my career. The inspiration from this note came from a conversation with my father on Sunday, March 24, after a brief conversation that went something like the following: 
-
-> Me:  I don't like working for other people
-> Dad: (Laughs) neither do I. I don't think I've ever been very good at it. 
-> Me: How did BroadJump start? Whose idea was it? 
-> Dad: Kip, Kenny, and (~). And then they brought me in and I raised the money.  
-> Me: How old were you? 
-> Dad: We were pregnant with you. Must have been 1998. 
-> Me: So you were 32. 
-> Dad: I trust your math. 
-> Me: That's young. I better get going! 
-> Dad: You've got plenty of time. You need to focus on learning what **not** to do. One of the best engineers I ever worked with at Tipping point, when he came in from a previous company, he brought with him a list of all of the things that were messed up at his previous company. 
-> Me: {babbles something about information theory}
-> Dad: yeah 
-> Me: That's good advice. Thanks. 
+This page is meant to serve as a repository of lessons learned from my experience at various companies over the course of my career. 
 
 
 ## Apex (June 2023 - ) 
