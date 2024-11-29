@@ -1,8 +1,54 @@
 title: Drew Chibib 
-description: mostly for publishing things i've written. does also contain books and essays i find compelling, people whose work i follow, and questions i find either important, entertaining, or both.
+description: "mostly for publishing things i've written. does also contain books and essays i find compelling, people whose work i follow, and questions i find either important, entertaining, or both."
 remote_theme: ronv/sidey
-color_scheme: light
 search_enabled: false
+permalink: pretty
+
 
 url: https://drewchibib.github.io
+baseurl: ""
 
+highlighter: none
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
