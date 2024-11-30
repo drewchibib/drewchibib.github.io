@@ -1,7 +1,6 @@
 title: Drew Chibib 
 description: "mostly for publishing things i've written. does also contain books and essays i find compelling, people whose work i follow, and questions i find either important, entertaining, or both."
 remote_theme: ronv/sidey
-search_enabled: false
 permalink: pretty
 
 
@@ -12,6 +11,7 @@ highlighter: none
 
 exclude:
   - .jekyll-cache
+  - atom.xml
   
 compress_html:
   clippings: all
