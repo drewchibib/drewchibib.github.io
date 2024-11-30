@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-11-30-Identity,-Illness,-and-Placebo
+title: Identity, illness, and placebo
 ---
 A while back, I watched a show that I think was called the girl in the house across the street from the woman in the window, or something like that (It was meant to be a spoof of a famous horror movie, I think). The protagonist is an aggrieved, alcoholic divorcée whose only daughter died and who has a particularly bad case of (self-diagnosed) [*ombrophobia*](https://my.clevelandclinic.org/health/diseases/22534-ombrophobia-fear-of-rain), ie, she is particularly afraid of the rain. It was a decent show (decent enough to be watched over the course of a single evening), but it's now been a few months since I watched it and I don't think I can really recall anything except 
 
