@@ -11,7 +11,7 @@ highlighter: none
 
 exclude:
   - .jekyll-cache
-  - atom.xml
+  - search.md
   
 compress_html:
   clippings: all
