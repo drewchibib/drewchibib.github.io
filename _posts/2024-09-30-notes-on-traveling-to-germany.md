@@ -15,7 +15,7 @@ The folks I spoke to made many generalizations about Bavaria - I can’t recall 
 ### Utting Am Ammersee: Saturday 13- Monday 15 
 Arrived in Munich Saturday morning. Our flight was probably 50% Germans or German speaking people and 50% tourists, give or take. 
 
-The airport was big, open, and had lots of window's. It was also quiet, though this is probably just because we landed in the international arrivals wing which is usually isolated from the rest of the airport and comparatively less busy.  I noticed that it seemed particularly clean - no smells.   Most American airports, save for the very new ones, have a particular sort of smell in them. I don’t know if this is a function of newness or the presence of funding (it probably is) or a function of something else more cultural. 
+The airport was big, open, and had lots of windows. It was also quiet, though this is probably just because we landed in the international arrivals wing which is usually isolated from the rest of the airport and comparatively less busy.  I noticed that it seemed particularly clean - no smells.   Most American airports, save for the very new ones, have a particular sort of smell in them. I don’t know if this is a function of newness or the presence of funding (it probably is) or a function of something else more cultural. 
 
 Getting through customs took no time at all. We didn’t have to declare anything or fill out a form. A German man asked me where I was going, I answered, and we proceeded to baggage claim. 
 
