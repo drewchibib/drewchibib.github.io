@@ -1,6 +1,6 @@
 ---
 title: advice 
-layout: default
+layout: page
 ---
 At present, this page is mostly just a list of links to some advice on the internet that I've found helpful over the years (by years, I mean, like, the last two or three). The second section is a running list of lessons that I think I've learned over the last six months working in technology; perhaps, to a certain extent, some of those lessons may have been emergent given more fundamental lessons learned while running a kitchen at an addiction treatment center, though my running assumption is that they are not, because (for better or worse) most of my intellectual energy there was spent on things I found more immediate than learning lessons. 
 
