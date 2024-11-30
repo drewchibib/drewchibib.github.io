@@ -3,7 +3,7 @@ layout: post
 title: notes on traveling to germany
 ---
 
-The below is a brief collection of notes written in reflection on 10 days spent in Bavaria. I stayed mostly in a small town called Utting am Ammersee (Utting on Ammer-lake) with Elise’s grandparents, interposed with a weekend in Vienna and a day trip into Munich. 
+The below is a brief collection of notes written in reflection on 10 days spent in Bavaria with Elise. We stayed mostly in a small town called Utting am Ammersee (Utting on Ammer-lake) with Elise’s grandparents, interposed with a weekend in Vienna and a day trip into Munich. 
 
 ### on Bavaria 
 Bavaria is a state, a geographical region, a culture, a cuisine, and (more or less) a language. A loose analog would be if the American south was its own federal state, a looser analog is Texas. 
