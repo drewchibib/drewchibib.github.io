@@ -23,7 +23,9 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap  
+  - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-paginate
 
 collections:
   pages:
@@ -51,3 +53,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+exclude:
+  - .jekyll-cache
