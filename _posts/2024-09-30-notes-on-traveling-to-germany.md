@@ -71,7 +71,7 @@ We had an early dinner - mostly salad and bread, and elise and I went on a long 
 
   ***Interpolation: On Breakfast***
 
-  Apparently, Bavarians love breakfast. Or, if they don't love it, it has a _much_ more significance in the retired Bavarian's day than the other two do. I noticed that the word for Breakfast (Frühstück) was the only word that didn't directly translate to {time of day} + "meal" (Dinner: _Abengessen_, literally "evening" (*abend*) + meal (_gessen_). Lunch: _Mittengessen_, "middle" (_Mitten_)+ meal)
+  Apparently, Bavarians love breakfast. Or, if they don't love it, it has  _much_ more significance in the retired Bavarian's day than the other two meals do. I noticed that the word for Breakfast (Frühstück) was the only word that didn't directly translate to {time of day} + "meal" (Dinner: _Abengessen_, literally "evening" (*abend*) + meal (_gessen_). Lunch: _Mittengessen_, "middle" (_Mitten_)+ meal)
 
   Every morning Gisela would set the table outside in the garden and serve soft boiled eggs, bread, ham, fruit, and yogurt, along with whatever else was left over. We’d eat around 9 or 10 (because of jet lag, I wasn’t great about eating at a consistent time ) and sit in the garden for an hour or so, mostly talking about the weather. Ekki had a knack for predicting the weather every day, probably owing to decades of catamaran racing, ice sailing, and aero-acrobatics (both as a pilot and hang glider). 
 
