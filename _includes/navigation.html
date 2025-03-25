@@ -1,0 +1,16 @@
+<header aria-hidden="true" class="no-print">
+    <nav role="navigation" aria-hidden="true">
+        <ul>
+            <li>
+                <p>
+                    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+                </p>
+            </li>
+            {% for item in site.data.navigation.links %}
+            <li>
+                <a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
